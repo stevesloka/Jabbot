@@ -5,7 +5,7 @@ using Jabbot.Sprokets;
 
 namespace Jabbot.Sprockets
 {
-    public abstract class RegexSproket : ISproket
+    public abstract class RegexSprocket : ISproket
     {
         public abstract Regex Pattern { get; }
 
